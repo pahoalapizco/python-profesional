@@ -32,3 +32,22 @@ Checking static typing
 ```sh
 mypy palindrome.py --check-untyped-defs
 ```
+
+
+## `Odd`
+A number is odd when it can't be divisible by 2.
+
+### Run this project
+```sh
+# Using linux or mac
+python3 odd.py
+```
+
+```sh
+# Using windows
+py odd.py
+```
+Checking static typing
+```sh
+mypy odd.py --check-untyped-defs
+```
