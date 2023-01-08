@@ -51,3 +51,19 @@ Checking static typing
 ```sh
 mypy odd.py --check-untyped-defs
 ```
+
+
+## `Closures`
+With this project I've ben practiced the closure concept. You'll find two functions.
+1. Text repeater
+2. Multiplier
+### Run this project
+```sh
+# Using linux or mac
+python3 closures.py
+```
+
+```sh
+# Using windows
+py closures.py
+```
