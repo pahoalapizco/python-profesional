@@ -67,3 +67,16 @@ python3 closures.py
 # Using windows
 py closures.py
 ```
+
+## `Decorators`
+This is just a simple practice to understand decorator concept.
+### Run this example
+```sh
+# Using linux or mac
+python3 decorators.py
+```
+
+```sh
+# Using windows
+py decorators.py
+```
