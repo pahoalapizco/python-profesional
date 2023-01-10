@@ -80,3 +80,21 @@ python3 decorators.py
 # Using windows
 py decorators.py
 ```
+
+
+## `Iterators`
+This is just a simple practice to understand how iterators work.
+In file `iterators.py` you'll find two classes
+1. `EvenNumbers`: Generate an iterator of all even numbers, unless you put a max number to stop the program.
+2. `Fibonacci`: Generate an iterator of all fibonacci succesion, unless you put a specific number to get its fibonacci.
+
+### Run this example
+```sh
+# Using linux or mac
+python3 iterators.py
+```
+
+```sh
+# Using windows
+py iterators.py
+```
