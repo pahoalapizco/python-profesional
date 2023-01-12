@@ -4,7 +4,7 @@ def is_palindrome(text: str) -> bool:
 
 
 def run():
-  # input_text = input("Tell me a word o sentence: ")
+  input_text = input("Tell me a word or sentence: ")
   palindrome = is_palindrome(10000)
   if palindrome:
     print(f"Your input {input_text} is a palindrome")

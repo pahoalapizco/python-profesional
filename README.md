@@ -98,3 +98,19 @@ python3 iterators.py
 # Using windows
 py iterators.py
 ```
+
+
+## `Playground`
+Little project that wrap all functional exercises created in this repo.
+I hope you enjoy it :smile:
+
+### Run this example
+```sh
+# Using linux or mac
+python3 main.py
+```
+
+```sh
+# Using windows
+py main.py
+```

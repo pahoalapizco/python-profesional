@@ -25,7 +25,7 @@ def option_repeater():
       break
 
   n = int(n)
-  text = input(f"Now, please enter some text do you want to repeat {n} times: ")
+  text = input(f"Now, please enter some text you want to repeat {n} times: ")
 
   repeate = make_repeater_of(n)
   print(repeate(text))
